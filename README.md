@@ -50,7 +50,7 @@ FArms separates missing-modality handling from the final task into a modular **b
 ### MM-IMDb (Multi-label movie genre classification)
 - Modalities: **image** + **text**
 - 27 genre classes (multi-label)
-- Download: [MM-IMDb](https://github.com/johnarevalo/gmu-mmimdb)
+- Download: [MM-IMDb](https://www.kaggle.com/datasets/eduardschipatecua/mmimdb)
 
 Expected directory layout:
 ```

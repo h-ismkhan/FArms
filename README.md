@@ -36,6 +36,15 @@ FArms_wArms/
 
 ## Method Overview
 
+
+
+<img width="662" height="638" alt="missing drawio" src="https://github.com/user-attachments/assets/9f54c11e-354c-4839-9a4e-d8d6303ee7c5" />
+
+
+<img width="1675" height="757" alt="Missing-FL-2opt drawio" src="https://github.com/user-attachments/assets/0ef319f5-21aa-4925-9926-92d5b6491355" />
+
+
+
 FArms separates missing-modality handling from the final task into a modular **blue-box / green-box** design:
 
 - **Blue-box (simulating arms):** Pairwise simulators `S_{i→j}` and fusion-based simulators trained with ℓ₂ reconstruction losses across all modality availability cases.

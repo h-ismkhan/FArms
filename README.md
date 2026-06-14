@@ -64,7 +64,7 @@ mmimdb/
 ### CMU-MOSI (Sentiment regression / binary classification)
 - Modalities: **text** + **audio** + **video**
 - Encoders: BERT (`bert-base-uncased`), WavLM-Large (`microsoft/wavlm-large`), CLIP ViT-B/32
-- Download: [CMU-MOSI](http://multicomp.cs.cmu.edu/resources/cmu-mosi-dataset/)
+- Download: [CMU-MOSI](https://www.kaggle.com/datasets/mathurinache/cmu-mosi/data)
 
 Expected directory layout:
 ```
